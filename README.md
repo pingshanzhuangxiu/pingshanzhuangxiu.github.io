@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## 深圳-坪山-坑梓-龙岗装修公司推荐
 
-You can use the [editor on GitHub](https://github.com/pingshanzhuangxiu/pingshanzhuangxiu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+深圳市欧景城装饰工程有限公司
+深圳市欧景城装饰工程有限公司成立于2018年01月05日，注册地位于深圳市坪山区石井街道石坡头二巷2号，法定代表人为邓克英。经营范围包括一般经营项目是：建筑工程施工，建筑装饰工程施工，室内外装饰工程施工，园林绿化工程施工，景观工程施工，机电设备安装工程施工，安防工程施工，土石方工程施工，钢结构工程施工，水电安装工程施工；室内装潢设计，建筑装饰设计，图文设计制作；建筑装饰材料、包装材料、防水材料、五金材料、电线电缆、灯饰照明、金属材料、环保设备、卫生洁具、陶瓷制品、机电设备、花卉盆景、流体控制成套设备及配件的销售
+## ：深圳市坪山区石井街道石坡头二巷2号
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pingshanzhuangxiu/pingshanzhuangxiu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 联系方式：
